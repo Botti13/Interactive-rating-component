@@ -54,7 +54,7 @@ Mobile view Thank you
 ### Links
 
 - Solution URL: (https://github.com/Botti13/Interactive-rating-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://botti13.github.io/Interactive-rating-component/)
 
 ## Author
 
